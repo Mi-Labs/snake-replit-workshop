@@ -1,10 +1,11 @@
-JS Workshop für Beginner - Sommer Coding Festival THB 2022
+JS Workshop für Beginner - Summer Coding Festival THB 2022
 
-# Spielaufbau
+## Spielaufbau
 
-## A - Welche Regeln besitzt Snake? 
+### A - Welche Regeln besitzt Snake? 
 Welche Regeln sind für das Spiel Snake wichtig?
-Schreibe die wichtigsten Regeln hier auf
+
+*Schreibe die wichtigsten Regeln hier auf*
 
 ```
 Regel 1: Wenn die Schlange die Wand berüht, ist das Spiel zu Ende
@@ -16,7 +17,9 @@ Regel 3: ...
 Regel X: ...
 ```
 
-## A - Wie sieht ein typischer Spielablauf aus?
+<br>
+
+### A - Wie sieht ein typischer Spielablauf aus?
 Die meisten Spiele haben einen Game-Loop, eine Schleife die sich bei jedem Spiel wiederholt.
 Als Beispiel kann man sich hierfür ein Kartenspiel wie UNO anschauen:
 
@@ -30,7 +33,8 @@ Als Beispiel kann man sich hierfür ein Kartenspiel wie UNO anschauen:
 Dieser Loop wiederholt sich in jedem Spiel
 
 Für Snake ist das genauso. 
-Bitte schreibe den typischen Spielablauf hier auf
+
+*Bitte schreibe den typischen Spielablauf hier auf*
 
 ````text
 1. Das Spiel wird gestartet
@@ -39,6 +43,3 @@ Bitte schreibe den typischen Spielablauf hier auf
 
 X. Das Spiel wird beendet
 ````
-
-
-  

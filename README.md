@@ -1,2 +1,2 @@
 # snake-replit-workshop
-All materials for the summer coding festival workshop "JS for Beginners"
+All materials for the Summer coding festival workshop "JS for Beginners"

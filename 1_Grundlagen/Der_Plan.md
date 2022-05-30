@@ -1,4 +1,4 @@
-JS Workshop für Beginner - Sommer Coding Festival THB 2022
+JS Workshop für Beginner - Summer Coding Festival THB 2022
 
 # Was ist der Plan?
 

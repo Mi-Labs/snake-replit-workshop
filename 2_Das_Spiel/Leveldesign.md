@@ -16,18 +16,22 @@ So könnte beispielsweise ein SuperMario-Level aussehen, die Plattformen mit "="
 
 Die Dokumentation zu der Funktion befindet sich [hier](https://kaboomjs.com/#addLevel)
 
+<br>
+
 ### A - Erzeuge ein Spielfeld für das Snake-Spiel
 Um Snake zu spielen wird ein Spielfeld mit Rändern benötigt. Diese sollen später dann bei Kollision das Spiel beenden.
 Als erster Schritt brauchen wir ein einfaches Spielfeld.
 
 *Erzeuge ein Spielfeld (15 mal 15 Felder) für das Spiel*
 
+<br>
 
 ### Weitere Informationen zu addLevel
 ``addLevel()`` kann neben der Map noch weitere Optionen entgegennehmen.
 
 - Breite jedes Blocks: ``width: 32``
 - Höhe jedes Blocks:   ``heigth: 32``
+- Position der Karte: ``pos: vec2(0,0)``
 - Definition von jedem Symbol:
 ````
 "=": () =>[
@@ -49,6 +53,7 @@ _Mit der Funktion `area()` wird eine Kollisionsfläche erzeugt und für diese wi
 
 _Mit `"boden"` wird dem Block ein Tag gegeben. Diesen Tag kann man dann später zu Identifikation des Blocks nutzen._
 
+<br>
 
 ### A - Schreibe für die erzeugte Spielfläche Definitionen für den Rand
 Damit die Kollision mit den Rändern gut funktioniert, müssen die Blöcke hierfür definiert werden.
