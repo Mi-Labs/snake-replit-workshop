@@ -21,7 +21,7 @@ Variablen sind Codebestandteile, die einen bestimmten Inhalt für eine bestimmte
 
 Jede Variable kann aber nur Daten von einem Typ zu einem Moment speichern - Eine String-Variable kann daher eigentlich immmer nur Text enthalten. In vielen Programmiersprachen kann eine Variable immer nur einen vordefinierten Typ enthalten, also eine String-Variable kann immer nur einen String enthalten.
 
-Bei JavaScript ist das etwas anders. Hier können Variablen während des Programm-Ablaufs mit unterschiedlichen Inhalten bespielt werden. Im einen Moment enthält die Variable Text, im nächsten Moment eine Zahl. Das ist tendenziell möglich, aber nicht sinnvoll :D
+Bei JavaScript ist das etwas anders. Hier können Variablen während des Programm-Ablaufs mit unterschiedlichen Inhalten bespielt werden. Im einen Moment enthält die Variable Text, im nächsten Moment eine Zahl. Das ist tendenziell möglich, aber nicht sinnvoll D:
 
 <br>
 
